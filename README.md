@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DNYANESHWARKHARAT
+- 👋 Hi, I’m @DNYANESHWAR KHARAT
 - 👀 I’m interested in python programming language and networking
 - 🌱 I’m currently learning python basic programming
 - 💞️ I’m looking to collaborate on python basic
